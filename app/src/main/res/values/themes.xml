@@ -6,4 +6,8 @@
     </style>
 
     <style name="Theme.HomeWork2324" parent="Base.Theme.HomeWork2324" />
+
+    <style name="ThemeOverlay.AppTheme.TextInputEditText.Outlined" parent="">
+        <item name="colorControlActivated">#6BCDDC39</item>
+    </style>
 </resources>
