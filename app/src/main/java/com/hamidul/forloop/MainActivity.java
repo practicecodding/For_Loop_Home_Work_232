@@ -104,7 +104,6 @@ public class MainActivity extends AppCompatActivity {
                     editText.requestFocus();
                 }else {
                     int evenNumber = (int) nTerms*2;
-                    int coma = evenNumber-2;
                     for (int x=1; x<=evenNumber;x++){
                         if (x%2==0 && x!=evenNumber){
                             sumOfEvenNumber=sumOfEvenNumber+x;
